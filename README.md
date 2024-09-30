@@ -8,3 +8,7 @@
     - Twig: Twig is the default templating engine for Symfony.
 
 2. php `bin/console make:user` && `php bin/console make:migration` && `php bin/console doctrine:migration:migrate`
+
+3. https://symfony.com/doc/current/security.html#form-login `php bin/console make:security:form-login`
+
+4. 
