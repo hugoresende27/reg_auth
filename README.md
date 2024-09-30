@@ -11,4 +11,4 @@
 
 3. https://symfony.com/doc/current/security.html#form-login `php bin/console make:security:form-login`
 
-4. 
+4. `php bin/console make:registration` for registration form and routes
